@@ -13,3 +13,8 @@ setTimeout(()=>{
 setTimeout(()=>{
     console.log("Bye")
 },10000)
+
+
+setTimeout(()=>{
+    console.log("Bye")
+},20000)
